@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T18:34:52.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="84ck23NvkW3NX5Y6NALD" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T18:38:17.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ntZIs8muQv71Y-blwaTY" version="21.1.4" type="github">
   <diagram name="Page-1" id="E42ZqrKlXivf7Q9WrTgK">
     <mxGraphModel dx="1050" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#E6E8D8" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="ldeWnYEe3eiKzBrZV0PM-13" value="&lt;b&gt;Register&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="129" y="91" width="111" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="ldeWnYEe3eiKzBrZV0PM-14" value="&lt;b&gt;Email Verification&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ldeWnYEe3eiKzBrZV0PM-14" value="&lt;b&gt;Email Verification&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="194" y="162" width="124" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ldeWnYEe3eiKzBrZV0PM-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeWidth=1.25;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="ldeWnYEe3eiKzBrZV0PM-14" target="ldeWnYEe3eiKzBrZV0PM-13" edge="1">
@@ -50,16 +50,16 @@
         <mxCell id="ldeWnYEe3eiKzBrZV0PM-30" value="&lt;b&gt;Log Out&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="137" y="784" width="111" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="ldeWnYEe3eiKzBrZV0PM-32" value="&lt;i&gt;&lt;b&gt;Create Recipe&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ldeWnYEe3eiKzBrZV0PM-32" value="&lt;i&gt;&lt;b&gt;Create Recipe&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="413" y="232" width="111" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="ldeWnYEe3eiKzBrZV0PM-33" value="&lt;i&gt;&lt;b&gt;View Recipe&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ldeWnYEe3eiKzBrZV0PM-33" value="&lt;i&gt;&lt;b&gt;View Recipe&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="413" y="352" width="111" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="ldeWnYEe3eiKzBrZV0PM-34" value="&lt;i&gt;&lt;b&gt;Search Recipe&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ldeWnYEe3eiKzBrZV0PM-34" value="&lt;i&gt;&lt;b&gt;Search Recipe&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="413" y="543" width="111" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="ldeWnYEe3eiKzBrZV0PM-35" value="&lt;i&gt;&lt;b&gt;View Profile&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ldeWnYEe3eiKzBrZV0PM-35" value="&lt;i&gt;&lt;b&gt;View Profile&lt;/b&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="413" y="656" width="111" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ldeWnYEe3eiKzBrZV0PM-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=1;entryY=0;entryDx=0;entryDy=0;edgeStyle=entityRelationEdgeStyle;strokeWidth=1.25;" parent="1" source="ldeWnYEe3eiKzBrZV0PM-32" target="ldeWnYEe3eiKzBrZV0PM-28" edge="1">
